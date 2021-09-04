@@ -1,0 +1,16 @@
+Group Homework 1
+Rewrite KNN sample code using KNeighborsClassifier.
+Repeat KNN for each k (from 1 to 20), for at least five times and calculate average accuracy to be your result.
+If you use the latest version of scikit-learn, you need to program with Python>=3.5.
+Use the same dataset: “iris data”
+Draw a line chart (recorded video): Use a “for loop” to change k from 1 to 20 and check your model accuracy.
+README.MD file
+Team member names and email addresses
+Quick Start about steps and things TA and I need to know to run your code or Jupyter notebook, e.g. dependencies…
+Which K (from 1 to 20) works the best? If all Ks have similar accuracy, please write down your thoughts about “Why.”
+insert a line chart
+Due September 10
+
+Source:
+1) https://datascienceplus.com/k-nearest-neighbors-knn-with-python/
+2) https://towardsdatascience.com/k-nearest-neighbors-algorithm-with-examples-in-r-simply-explained-knn-1f2c88da405c
