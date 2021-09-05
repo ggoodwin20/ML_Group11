@@ -5,3 +5,6 @@
 
 ### The dataframe must have a numeric target variable, the name of which will need to be specified in the relevant code sections. User must change code in relevant sections if a different range of k-values and/or number of train/test shuffle repetitions is desired (currently set to k-value range of 1:20 and 20 shuffles). Any changes made will also need to be made to the accuracy score matrix dimensions (k-values x shuffles) 
 
+## Package Requirements
+
+### scipy numpy pandas matplotlib seaborn sklearn pillow yellowbrick ipywidgets
